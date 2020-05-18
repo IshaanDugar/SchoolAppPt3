@@ -1,0 +1,30 @@
+body{
+    background-color: #808080;
+}
+
+h1{
+    color: #ffff00;
+    background-color: #ff0000;
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    background-color:#ffa500 ;
+    color: #008000;
+}
+
+.pic{
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.Head{
+    background-color: #00ffff;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    justify-content: flex-end;
+}
